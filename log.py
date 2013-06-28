@@ -14,5 +14,5 @@ for i in range(0, 10):
         logger.error('error msg')
         logger.exception('exception strace')  
 
-   # time.sleep(2)
+    time.sleep(2)
 # end for
